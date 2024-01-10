@@ -1,0 +1,77 @@
+*{
+  /* outline: 1px solid red; */
+  margin:0;
+  padding: 0;
+}
+
+html{
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: 'Poppins', sans-serif
+}
+
+:root{
+  --nav-color: #be3144;
+  --nav-font: #f0f0f0;
+  --nav-hover: #45567d;
+  --welcome: #303841;
+}
+
+.nav-bar-items{
+  display: flex;
+  list-style-type: none;
+  justify-content: flex-end;
+}
+
+a{
+  padding: 20px;
+  display: block;
+  text-decoration: none; 
+  color: var(--nav-font);
+  font-size: 2.25rem;
+}
+a:hover{
+  background-color: var(--nav-hover);
+}
+
+#navbar{
+  background-color: var(--nav-color);
+}
+
+.nav-bar-item:last-child a {
+  margin-right: 25px;
+}
+
+#welcome-section{
+  height: 100vh;
+  background-color: #000;
+  background-image: linear-gradient(62deg, #3a3d40 0%, #2c2a2e 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#projects{
+  height: 100px;
+  background-color: green;
+}
+
+h1,h2{
+  font-family: 'Raleway',sans-serif;
+  color: var(--nav-font);
+}
+
+h1{
+  font-size: 6rem;
+}
+
+.container p{
+  color: var(--nav-color);
+  text-align: center;
+  margin-top: 10px;
+  font-size: 2rem;
+}
