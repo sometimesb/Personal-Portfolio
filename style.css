@@ -26,7 +26,7 @@ body {
 
 #navbar {
   background-color: var(--nav-color);
-  position: fixed;
+  position: sticky;
 }
 
 .nav-bar-items {
