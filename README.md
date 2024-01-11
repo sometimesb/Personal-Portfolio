@@ -7,7 +7,7 @@ Super simple project. I just used the following:
 * CSS 
 
 ## 🚀 Image
-![Screenshot of project](https://i.imgur.com/UlEk4Rw.png)
+![Screenshot of project](https://i.imgur.com/Y7Ydpwu.png)
 ![Screenshot of project](https://i.imgur.com/7V6Cgm3.png)
 
 ## LIVE PREVIEW:
