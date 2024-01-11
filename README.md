@@ -8,7 +8,7 @@ Super simple project. I just used the following:
 
 ## 🚀 Image
 ![Screenshot of project](https://i.imgur.com/UlEk4Rw.png)
-![Screenshot of project](https://i.imgur.com/JQw63x0.png)
+![Screenshot of project](https://i.imgur.com/7V6Cgm3.png)
 
 ## LIVE PREVIEW:
 To access a live preview, kindly click the link.
