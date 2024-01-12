@@ -264,7 +264,7 @@ footer i {
     padding: 20px;
     text-decoration: none;
     color: var(--nav-font);
-    font-size: 1.5rem;
+    font-size: 1.6rem;
     transition: background-color 0.3s ease-out;
   }
   .nav-bar-item:last-child a {
