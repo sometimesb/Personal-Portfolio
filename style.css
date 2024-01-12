@@ -257,3 +257,21 @@ footer i {
     text-align: center;
   }
 }
+
+@media (max-width: 600px){
+  a {
+    display: block;
+    padding: 20px;
+    text-decoration: none;
+    color: var(--nav-font);
+    font-size: 1.5rem;
+    transition: background-color 0.3s ease-out;
+  }
+  .nav-bar-item:last-child a {
+    margin-right: 0px;
+  }
+
+  h1{
+    text-align: center;
+  }
+}
