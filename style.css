@@ -101,6 +101,12 @@ h1 {
   background: linear-gradient(180deg, var(--main-blue) 0%, var(--nav-hover) 100%);
 }
 
+.projects-section-2 {
+  text-align: center;
+  padding: 10rem 2rem;
+  background: linear-gradient(180deg, var(--nav-hover) 0%, var(--main-blue) 100%);
+}
+
 .projects-section-header {
   max-width: 640px;
   margin: 0 auto 6rem auto;
